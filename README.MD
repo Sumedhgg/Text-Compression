@@ -1,0 +1,1 @@
+Generate huffman codes by building a tree where input is an array of unique characters along with their frequency of occurrences and the output is the compressed codes of characters for efficient memory usage
